@@ -16,7 +16,7 @@ public class Context {
     private Strategy strategy;
     /**
      * 构造函数，传入一个具体策略对象
-     * @param strategy    具体策略对象
+     * @param strategy 具体策略对象
      */
     public Context(Strategy strategy){
         this.strategy = strategy;
