@@ -1,4 +1,4 @@
-package cn.chenjiebo.strategy;
+package cn.chenjiebo.patterns.strategy.strategy;
 
 /**
  * DesignPattern

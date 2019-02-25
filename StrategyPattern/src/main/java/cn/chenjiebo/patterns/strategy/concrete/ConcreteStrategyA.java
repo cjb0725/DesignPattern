@@ -1,6 +1,6 @@
-package cn.chenjiebo.concrete;
+package cn.chenjiebo.patterns.strategy.concrete;
 
-import cn.chenjiebo.strategy.Strategy;
+import cn.chenjiebo.patterns.strategy.strategy.Strategy;
 
 /**
  * DesignPattern

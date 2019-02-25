@@ -1,6 +1,6 @@
-package cn.chenjiebo.context;
+package cn.chenjiebo.patterns.strategy.context;
 
-import cn.chenjiebo.strategy.Strategy;
+import cn.chenjiebo.patterns.strategy.strategy.Strategy;
 
 /**
  * DesignPattern
