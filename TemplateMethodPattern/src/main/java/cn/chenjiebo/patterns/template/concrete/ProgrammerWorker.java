@@ -16,7 +16,7 @@ public class ProgrammerWorker extends Worker{
 
     @Override
     protected void work() {
-        System.out.println(name + " programming.");
+        System.out.println(name + " is programming.");
     }
 
     @Override
