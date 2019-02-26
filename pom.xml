@@ -11,6 +11,7 @@
     <modules>
         <module>StrategyPattern</module>
         <module>StatePattern</module>
+        <module>TemplateMethodPattern</module>
     </modules>
 
     <properties>
