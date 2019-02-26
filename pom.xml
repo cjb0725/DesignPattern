@@ -12,6 +12,7 @@
         <module>StrategyPattern</module>
         <module>StatePattern</module>
         <module>TemplateMethodPattern</module>
+        <module>ObserverPattern</module>
     </modules>
 
     <properties>
